@@ -1,0 +1,8 @@
+{
+    "SchemaStdLibDir": "../../build/dependencies/schema/standard_library",
+    "SchemaSourceDirs": [
+        "../../schema"
+    ],
+    "CodegenOutputDir": "Assets/Generated/Source",
+    "RuntimeIp": ""
+}
